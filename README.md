@@ -23,7 +23,7 @@ MATLAB receives the coordinate data and combines multiple scan slices into a 3D 
 
 <!-- PHOTO PLACEHOLDER: Upload a photo of your complete scanner to docs/images/scanner-setup.jpg, or replace the path below with your own filename. -->
 
-![Complete scanner hardware](docs/images/scanner-setup.jpg)
+![Complete scanner hardware](docs/images/Electronics Integration.png)
 
 *MSP432 development board, sensor mount, stepper motor, and driver connections.*
 
@@ -55,8 +55,6 @@ flowchart TD
 5. **Visualize:** MATLAB separates the slices using their scan-position offsets and plots the measured points and connecting lines to form a 3D view.
 
 ## Wiring Diagram
-
-<!-- IMAGE PLACEHOLDER: Upload your circuit/wiring diagram to docs/images/wiring-diagram.png. -->
 
 ![Scanner wiring diagram](docs/images/wiring-diagram.png)
 
