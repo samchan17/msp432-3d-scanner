@@ -66,17 +66,9 @@ flowchart TD
 
 The scanner was tested in a hallway at McMaster University. MATLAB visualizations were compared with photographs of the scanned space to assess how the measured profiles represented the hallway shape and nearby objects.
 
-<!-- PHOTO PLACEHOLDER: Upload a photo of the scanned environment to docs/images/scanned-environment.jpg. -->
+![Physical environment used for scanning](docs/images/results.png)
 
-![Physical environment used for scanning](docs/images/scanned-environment.jpg)
-
-*The physical environment used for the scan.*
-
-<!-- IMAGE PLACEHOLDER: Upload your MATLAB plot to docs/images/matlab-reconstruction.png. -->
-
-![MATLAB reconstruction of the scanned environment](docs/images/matlab-reconstruction.png)
-
-*Reconstructed scan slices displayed in MATLAB.*
+*The physical environment used for the scan, as well as the resulting MATLAB simulation.*
 
 ## Software and Tools
 
@@ -107,9 +99,7 @@ The scanner was tested in a hallway at McMaster University. MATLAB visualization
 
 The complete report covers system design, hardware connections, firmware and MATLAB flowcharts, operating instructions, testing, and results.
 
-<!-- REPORT PLACEHOLDER: Upload your full report to docs/msp432-scanner-report.pdf, or replace the filename below with the actual PDF filename. -->
-
-[Read the full project report (PDF)](docs/msp432-scanner-report.pdf)
+[Read the full project report (PDF)](docs/SamChan_2DX3_FinalProjectReport.pdf)
 
 ## References and Resources
 
