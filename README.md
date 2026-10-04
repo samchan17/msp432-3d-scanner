@@ -23,7 +23,7 @@ MATLAB receives the coordinate data and combines multiple scan slices into a 3D 
 
 <!-- PHOTO PLACEHOLDER: Upload a photo of your complete scanner to docs/images/scanner-setup.jpg, or replace the path below with your own filename. -->
 
-![Complete scanner hardware](docs/images/Electronics Integration.png)
+![Complete scanner hardware](docs/images/Electronics_Integration.png)
 
 *MSP432 development board, sensor mount, stepper motor, and driver connections.*
 
@@ -56,7 +56,7 @@ flowchart TD
 
 ## Wiring Diagram
 
-![Scanner wiring diagram](docs/images/wiring-diagram.png)
+![Scanner wiring diagram](docs/images/wiring_diagram.png)
 
 *The full report contains the pin assignments and hardware connections used in this build.*
 
